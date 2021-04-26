@@ -64,7 +64,7 @@ Num | Nome | Nota
 
 Tabela Encerrada
 
-####### Comandos 
+Comandos 
 
 Duvidas para que serve o comando `document.getElementByid()` da Linguagem JavaScript
 
